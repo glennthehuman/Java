@@ -116,9 +116,7 @@ __Properties__
 * Average case performance    O(log n)
 * Worst case space complexity    O(1) 
 
-see more in [Searches](Searches/src)|
-
-###### View the algorithm in [action][shell-toptal]
+###### see more in [Searches](Searches/src)|
 
 [bubble-toptal]: https://www.toptal.com/developers/sorting-algorithms/bubble-sort
 [bubble-wiki]: https://en.wikipedia.org/wiki/Bubble_sort
